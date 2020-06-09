@@ -345,26 +345,6 @@
                     <default>false</default>
                     <label>A6</label>
                 </value>
-                <value>
-                    <fullName>B1</fullName>
-                    <default>false</default>
-                    <label>B1</label>
-                </value>
-                <value>
-                    <fullName>B2</fullName>
-                    <default>false</default>
-                    <label>B2</label>
-                </value>
-                <value>
-                    <fullName>B3</fullName>
-                    <default>false</default>
-                    <label>B3</label>
-                </value>
-                <value>
-                    <fullName>B4</fullName>
-                    <default>false</default>
-                    <label>B4</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
