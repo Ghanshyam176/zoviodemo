@@ -306,6 +306,49 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>DemoPicklist__c</fullName>
+        <externalId>false</externalId>
+        <label>DemoPicklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>A1</fullName>
+                    <default>false</default>
+                    <label>A1</label>
+                </value>
+                <value>
+                    <fullName>A2</fullName>
+                    <default>false</default>
+                    <label>A2</label>
+                </value>
+                <value>
+                    <fullName>A3</fullName>
+                    <default>false</default>
+                    <label>A3</label>
+                </value>
+                <value>
+                    <fullName>A4</fullName>
+                    <default>false</default>
+                    <label>A4</label>
+                </value>
+                <value>
+                    <fullName>A5</fullName>
+                    <default>false</default>
+                    <label>A5</label>
+                </value>
+                <value>
+                    <fullName>A6</fullName>
+                    <default>false</default>
+                    <label>A6</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
